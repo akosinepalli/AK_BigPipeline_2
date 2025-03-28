@@ -13,7 +13,7 @@ public with sharing class SimpleEPAEx {
         return message;
     }
 
-    // Static method to return a greeting
+    // Static method to return a greetings
     public static String staticGreeting() {
         return 'Hello from Static Method!';
     }
