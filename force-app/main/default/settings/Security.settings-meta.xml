@@ -57,7 +57,7 @@
     </networkAccess>
     <passwordPolicies>
         <complexity>AlphaNumeric</complexity>
-        <expiration>NinetyDays</expiration>
+        <expiration>OneYear</expiration>
         <historyRestriction>3</historyRestriction>
         <lockoutInterval>FifteenMinutes</lockoutInterval>
         <maxLoginAttempts>TenAttempts</maxLoginAttempts>
