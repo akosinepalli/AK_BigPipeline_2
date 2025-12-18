@@ -10,7 +10,7 @@ public with sharing class SimpleEPAEx {
 
     // Method to return the message
     public String getMessage() {
-        return message;
+        return messages;
     }
 
     // Static method to return a greetinging
