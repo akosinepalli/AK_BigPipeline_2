@@ -8,7 +8,7 @@ public with sharing class SimpleEPAEx {
         this.message = 'Hello from SimpleEPAEx!';
     }
 
-    // Method to return the message
+    // Method to return the messages
     public String getMessage() {
         return messages;
     }
