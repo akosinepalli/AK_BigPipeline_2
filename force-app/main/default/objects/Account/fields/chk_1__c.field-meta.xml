@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>AKAK__c</fullName>
-    <defaultValue>true</defaultValue>
-    <label>AKAK</label>
+    <fullName>chk_1__c</fullName>
+    <defaultValue>false</defaultValue>
+    <label>chk_1</label>
     <trackFeedHistory>false</trackFeedHistory>
     <trackHistory>false</trackHistory>
     <type>Checkbox</type>

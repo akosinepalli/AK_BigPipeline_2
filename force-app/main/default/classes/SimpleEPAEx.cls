@@ -8,12 +8,12 @@ public with sharing class SimpleEPAEx {
         this.message = 'Hello from SimpleEPAEx!';
     }
 
-    // Method to return the message
+    // Method to return the messages
     public String getMessage() {
-        return message;
+        return messages;
     }
 
-    // Static method to return a greeting
+    // Static method to return a greetinging
     public static String staticGreeting() {
         return 'Hello from Static Method!';
     }
